@@ -1,8 +1,9 @@
 <resources>
-    <string name="app_name">SharedPreferences</string>
+    <string name="app_name">SqLite</string>
     <string name="nome">Nome</string>
     <string name="tratamento">Tratamento</string>
     <string name="salvar_nova_saudacao">Salvar Nova Saudação</string>
+    <string name="exibir_saudacao">Exibir Saudação</string>
 
     <string-array name="saudacoes">
         <item>Sr</item>
